@@ -1,4 +1,4 @@
-# *TUGAS Pembelajaran secara Statistik dan Optimasi*
+# *Mini Project 1 Pembelajaran secara Statistik dan Optimasi*
 Muhammad Surya Sanjiwani_1101200113
 
 ## Mini Project 1
